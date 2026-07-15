@@ -58,7 +58,7 @@ python app.py
 
 ### Usage
 
-Open **http://127.0.0.1:5000** in your browser.
+Open **http://xxx.x.x.x:xxxx** in your browser.
 
 - **Search** — type a food name (2+ characters) for autocomplete suggestions
 - **Browse** — click a category card to explore foods in that category
