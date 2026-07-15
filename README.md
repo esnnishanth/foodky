@@ -8,12 +8,12 @@ Foodky is a **Food Preservation Guide** web app that helps you find shelf life, 
 
 ## Features
 
-- 🔍 **Live search** with autocomplete — find any food instantly
-- 📦 **Shelf life info** — room temperature, refrigerated, frozen
-- 🧊 **Preservative methods** & optimal storage temperature
-- 🏷️ **Category browsing** — browse 30+ food categories
-- 💡 **Pro tips** — storage and reheating recommendations
-- 🌙 **Dark theme** — modern, responsive UI
+-  **Live search** with autocomplete — find any food instantly
+-  **Shelf life info** — room temperature, refrigerated, frozen
+-  **Preservative methods** & optimal storage temperature
+-  **Category browsing** — browse 30+ food categories
+-  **Pro tips** — storage and reheating recommendations
+-  **Dark theme** — modern, responsive UI
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/479046e7-f565-4234-a38b-4cbe33c00b9d" alt="Foodky Search Results" width="80%">
